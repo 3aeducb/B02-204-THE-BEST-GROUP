@@ -1,5 +1,5 @@
 # B02-204-THE-BEST-GROUP
-import pygame
+#import pygame
 from pygame.draw import *
 from random import randint, sample
 pygame.init()
